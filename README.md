@@ -16,7 +16,7 @@ i am also a fresh computer science graduate with a curious mind and an appetite 
 
 ## 🐈 outside of coding
 
-<table border="0">
+<table align="center" border="0">
   <tr>
     <td valign="top" width="70%" border="0">
       <h3>when i’m not writing code, i’m probably:</h3>
