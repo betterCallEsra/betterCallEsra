@@ -1,5 +1,5 @@
 <h3 align="center"> hello world, i’m <strong>esra!</strong></h3>
-<p align="center"> busy turning caffeine into code ☕️ </p>
+<p align="center"> busy cracking codes and jokes <img src="https://gifcity.carrd.co/assets/images/gallery12/a3a140ab.gif?v=e3c0bc0f" height="18"/> </p>
 
 ## 🚀 about me
 
