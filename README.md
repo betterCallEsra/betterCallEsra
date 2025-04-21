@@ -28,7 +28,7 @@ i am also a fresh computer science graduate with a curious mind and an appetite 
       </ul>
     </td>
     <td border="0">
-      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="250px"/>
+      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="200px"/>
     </td>
   </tr>
 </table>
