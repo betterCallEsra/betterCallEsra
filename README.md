@@ -16,12 +16,22 @@ i am also a fresh computer science graduate with a curious mind and an appetite 
 
 ## 🐈 outside of coding
 
-when i’m not writing code, i’m probably:
-
-- 🎨 experimenting with graphic design
-- ✍️ content writing
-- 🎮 gaming 
-- 🐾 hanging out with cats
+<table border="0">
+  <tr>
+    <td valign="top" width="60%" border="0">
+      <h3>when i’m not writing code, i’m probably:</h3>
+      <ul>
+        <li>🎨 experimenting with graphic design</li>
+        <li>✍️ content writing</li>
+        <li>🎮 gaming</li>
+        <li>🐾 hanging out with cats</li>
+      </ul>
+    </td>
+    <td border="0">
+      <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="250px"/>
+    </td>
+  </tr>
+</table>
 
 ## 📝 projects
 
