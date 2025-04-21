@@ -18,7 +18,7 @@ i am also a fresh computer science graduate with a curious mind and an appetite 
 
 <table border="0">
   <tr>
-    <td valign="top" width="60%" border="0">
+    <td valign="top" width="70%" border="0">
       <h3>when i’m not writing code, i’m probably:</h3>
       <ul>
         <li>🎨 experimenting with graphic design</li>
