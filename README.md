@@ -1,4 +1,4 @@
-## hello world! i am Esra, turning caffeine into code ☕
+# hello world! i am Esra, turning caffeine into code ☕
 
 ## 🚀 about me
 
