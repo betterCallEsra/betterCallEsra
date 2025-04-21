@@ -1,5 +1,5 @@
-# hello world! i am Esra 
-turning caffeine into code ☕
+# hello world! i am Esra  
+turning caffeine into code ☕️
 
 ## 🚀 about me
 
@@ -8,51 +8,29 @@ i am also a fresh computer science graduate with a curious mind and an appetite 
 
 ## ⚙️ my skills
 
-<p>
+### frontend  
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" height="25"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
 
-# frontend
+### backend  
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff" height="25"/>
 
-<!-- html5 -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white' />
-
-<!-- javascript -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&amp;logo=javascript&amp;logoColor=F7DF1E' />
-
-<!-- tailwind css -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC' />
-
-<!-- react -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB' />
-
-# backend
-
-<!-- nodejs -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white' />
-
-<!-- expressjs -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
-
-<!-- postgresql -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white' />
-
-<!-- sequelize -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=fff' />
-
-# design 
-
-<!-- figma -->
-<img width ='80px' height='25px' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white' />
-
-</p>
+### design  
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="25"/>
 
 ## 🐈 outside of coding
 
-when i am not writing code, you'll find me diving into: 
+when i’m not writing code, i’m probably:
 
-- graphic design
-- content writing 
-- gaming 
-- cats (they're my co-developers)
+- 🎨 experimenting with graphic design
+- ✍️ content writing
+- 🎮 gaming 
+- 🐾 hanging out with cats
 
 ## 📝 projects
 
@@ -64,5 +42,5 @@ I *have* actually worked on two full-stack projects —
 but… you won’t find them here yet  
 because I refuse to upload anything that would roast me in public 😶‍🌫️
 
-for now, this space is just *manifesting greatness*.
+for now, this space is just *manifesting greatness*.  
 my future self is working on it!
