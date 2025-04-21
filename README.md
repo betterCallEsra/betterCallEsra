@@ -36,7 +36,7 @@ i am also a fresh computer science graduate with a curious mind and an appetite 
 ## 📝 projects
 
 okay here’s the deal:  
-I *have* actually worked on two full-stack projects —  
+I *have* actually worked on two full-stack projects:  
 - one was a solo mission (built it, broke it, fixed it, cried, and survived)  
 - the other was a team project (aka “let’s all code and hope for the best”)
 
